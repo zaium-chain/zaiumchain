@@ -13,7 +13,7 @@ Decentralize power. Shape the future. Sustain the world — block by block.
 🧩 Overview
 
 ZAIUM Chain is an independent blockchain engineered for fast, secure and decentralized micropayments.
-Built as a clean fork of Bitcoin Core 0.21.0, ZAIUM preserves the robustness of the Bitcoin architecture while introducing its own identity, parameters and long-term vision.
+Built as a clean fork of Bitcoin, ZAIUM preserves the robustness of the Bitcoin architecture while introducing its own identity, parameters and long-term vision.
 
 The project focuses on delivering a payment-optimized, transparent and resilient blockchain layer that remains simple, auditable and efficient.
 
