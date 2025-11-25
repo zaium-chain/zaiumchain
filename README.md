@@ -10,73 +10,69 @@ Decentralize power. Shape the future. Sustain the world — block by block.
 
 ---
 
-## 🧩 Overview
+🧩 Overview
 
-**ZAIUM Chain** is a next-generation blockchain focused on decentralization, security and sustainable long-term growth.  
-Our mission is to empower individuals and organizations through transparent, scalable and eco-efficient blockchain technology.
+ZAIUM Chain is an independent blockchain engineered for fast, secure and decentralized micropayments.
+Built as a clean fork of Bitcoin Core 0.21.0, ZAIUM preserves the robustness of the Bitcoin architecture while introducing its own identity, parameters and long-term vision.
 
-ZAIUM is being built as a fully open-source project, designed to become a global infrastructure layer for payments, smart applications, and decentralized systems.
+The project focuses on delivering a payment-optimized, transparent and resilient blockchain layer that remains simple, auditable and efficient.
 
----
+🚀 Core Ecosystem
 
-## 🚀 Core Ecosystem
+The ZAIUM ecosystem is composed of several planned components:
 
-ZAIUM consists of several key components:
+🟧 zaium-core – Full node implementation (PoW SHA-256, UTXO model).
 
-- **🟧 zaium-core** – Core blockchain node implementation.  
-- **🟩 zaium-protocol** – Protocol specifications, consensus rules and cryptographic design.  
-- **🟦 zaium-wallet** – Official non-custodial wallet for desktop and mobile.  
-- **🟪 zaium-explorer** – Block explorer to visualize transactions, blocks and network activity.  
-- **📄 zaium-whitepaper** – Whitepaper, architecture and research.
+🟦 zaium-wallet – Official non-custodial wallet (desktop & mobile).
 
-All repositories are fully open-source under the MIT license.
+🟪 zaium-explorer – Block explorer showcasing blocks, transactions and network metrics.
 
----
+📄 zaium-whitepaper – Technical documentation, economics and system architecture.
 
-## 🔐 Technology Pillars
 
-- Decentralized architecture  
-- Secure consensus mechanism (PoW/PoS hybrid planned)  
-- High-efficiency transaction layer  
-- Modern cryptography (ECDSA, SHA-256)  
-- Optimized P2P networking  
-- Scalability-first design  
+All repositories will be open-source under the MIT license.
 
----
+🔐 Technology Pillars
 
-## 📍 Roadmap (Early Draft)
+Proof-of-Work consensus (SHA-256)
 
-### Q1 2025
-- Repository structure  
-- Protocol foundation  
-- Core node bootstrap  
+UTXO architecture derived from Bitcoin
 
-### Q2 2025
-- Wallet prototype  
-- Explorer backend  
-- Whitepaper v0.2  
+60-second block time
 
-### Q3 2025
-- Mainnet architecture  
-- Consensus module  
-- Testnet launch  
+SegWit activated
 
-### Q4 2025
-- Security audits  
-- Mainnet launch  
-- Ecosystem expansion  
+Lightning-compatible design
 
----
+Transparent and small premine (0.48%)
 
-## 🌐 Official Links
+Efficient, stable and security-focused network core
 
-- Website: https://zaium.org  
-- GitHub: https://github.com/zaium-chain  
-- X (Twitter): https://twitter.com/zaiumchain  
-- Telegram: https://t.me/zaiumchain  
 
----
+🛠 Protocol Vision
 
-<p align="center">
-  <strong>ZAIUM — Building the future, block by block.</strong>
-</p>
+ZAIUM aims to provide:
+
+Reliable micropayments with low fees
+
+A lightweight and decentralized infrastructure
+
+Predictable tokenomics inspired by Bitcoin (halving cycles, fixed supply)
+
+A transparent early-stage foundation for ecosystem tools and development
+
+A long-term, sustainability-oriented blockchain layer
+
+
+🌐 Official Links
+
+Website: https://zaium.org
+
+GitHub: https://github.com/zaium-chain
+
+X (Twitter): https://twitter.com/zaiumchain
+
+Telegram: https://t.me/zaiumchain
+
+
+ZAIUM — Building the future, block by block.
