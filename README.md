@@ -5,7 +5,7 @@ Decentralize power. Shape the future. Sustain the world — block by block.
 </strong></p>
 
 <p align="center">
-  <img src=".github/profile/zaium-logo.jpg" width="160" alt="ZAIUM Logo" />
+  <img src=".github/.github/profile/zaium-logo.jpg" width="160" alt="ZAIUM Logo" />
 </p>
 
 ---
